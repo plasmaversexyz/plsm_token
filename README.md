@@ -17,6 +17,8 @@ The Plasmaverse Token ($PLSM) is a token built on the Sui blockchain for Plasmav
   - Staking and Rewards: Users can stake $PLSM tokens to earn additional rewards within the ecosystem.
   - Platform Usage: $PLSM tokens can be used for transactions, fees, and accessing specific features and services within the Plasmaverse platform.
 
+Pls note that this repo only contains the smart contract for the token itself. other features will be provided as a separated smart contract. 
+
 ## Smart Contract
 
 The smart contract for the Plasmaverse Token is written in Move language and deployed on the Sui blockchain. The contract source code can be found in the `sources` directory.
